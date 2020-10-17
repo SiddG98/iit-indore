@@ -12,6 +12,7 @@
 * understanding Function parsing
 * understanding Mux function but could use du to constarins
 * understanding of net/http net/url
+* how LocalHost and Empty ports work
 
 #### Things that could understand but didnt know how to implement
 * to seperate query from url
